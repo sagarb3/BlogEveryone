@@ -13,3 +13,5 @@ Remember to add config.js since it is not in git history due to security reason
 #secretAccessKey: "\*-----\*",
 #bucketName: "\*----\*"
 #};
+
+#I have removed the aws-user , so next time when you re-use we need to re-create the user
